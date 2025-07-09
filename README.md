@@ -111,3 +111,4 @@ In large systems like ChatGPT, Gemini, or DeepSeek, all three layers exist:
 Immediate answer (agent)
 Chat memory or context (run)
 Global model updates from learning (global)"# Agents" 
+"# Agents" 
